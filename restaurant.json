@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "KFC - Zagazig",
+    "img": "https://vignette.wikia.nocookie.net/disney/images/3/3a/Kfc.jpg/revision/latest?cb=20140810000057",
+    "location": "1 Talaat Harb, Mosque, Qesm Than AZ Zagazig, Ash Sharqia Governorate",
+    "phone": "055 2320004",
+    "rate": 4,
+    "foods": [
+      {
+        "id": 1,
+        "name": "Chicken Meal ( Menu 25 )",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 21.63",
+        "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg",
+        "rate": 5
+      },
+      {
+        "id": 1,
+        "name": "Ropian ( Menu 26 )",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 60.93",
+        "img": "http://www.pngmart.com/files/1/Salad-PNG-Image.png",
+        "rate": 4
+      },
+      {
+        "id": 1,
+        "name": "Kapap ( Menu 26 )",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 80.33",
+        "img": "https://banner2.kisspng.com/20180418/gfe/kisspng-cheeseburger-whopper-hamburger-big-king-bacon-burger-king-5ad6e46b3ebfa6.561091951524032619257.jpg",
+        "rate": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "McDonald's - Zagazig",
+    "img": "https://vignette.wikia.nocookie.net/thefutureofeuropes/images/9/98/Mcdonalds-logo.jpg/revision/latest?cb=20140731210755",
+    "location": "Tolba Awaida St, Shaibet an Nakarayah, Markez El-Zakazik, Ash Sharqia Governorate",
+    "phone": "01201173768",
+    "rate": 3,
+    "foods": [
+      {
+        "id": 1,
+        "name": "Chicken Rice with Source Meal",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 21.63",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyNIb5zxh3P_Y3T4Xd_v2Y8s9v8kOHjgw-EfFjDcjJIk5aX3J",
+        "rate": 5
+      },
+      {
+        "id": 1,
+        "name": "Ropian ( Menu 26 )",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 60.93",
+        "img": "http://www.pngmart.com/files/1/Salad-PNG-Image.png",
+        "rate": 4
+      },
+      {
+        "id": 1,
+        "name": "Kapap ( Menu 26 )",
+        "content": "Chicken piece, small plane rice, small French fries and buns",
+        "salary": "EGY 80.33",
+        "img": "https://banner2.kisspng.com/20180418/gfe/kisspng-cheeseburger-whopper-hamburger-big-king-bacon-burger-king-5ad6e46b3ebfa6.561091951524032619257.jpg",
+        "rate": 3
+      }
+    ]
+  }
+]
