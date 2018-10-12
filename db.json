@@ -18,11 +18,7 @@
         },
         {
             "id": 2,
-            "name": "Chicken Meal",
-            "content": "Chicken piece, small plane rice, small French fries and buns",
-            "salary": "EGY 21",
-            "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg",
-            "rate": 3
+            "name": "Chicken Meal"
         }
       ] 
    },
