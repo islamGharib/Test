@@ -21,7 +21,10 @@
    {
       "id": 2,
       "name": "McDonald's - Zagazig",
-     "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg"
+     "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg",
+     "location": "1 Talaat Harb, Mosque, Qesm Than AZ Zagazig, Ash Sharqia Governorate",
+     "phone": "055 2320004",
+     "rate": 5
    }
  ]
     
