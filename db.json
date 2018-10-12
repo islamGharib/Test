@@ -18,7 +18,9 @@
         },
         {
             "id": 2,
-            "name": "Chicken Meal"
+            "name": "Chicken Meal",
+            "content": "Chicken piece, small plane rice, small French fries and buns",
+            "salary": "EGY 20"
         }
       ] 
    },
