@@ -1,7 +1,7 @@
 {
   "Restaurant": [
     {
-       "id": 1,
+      "id": 1,
       "name": "KFC - Zagazig",
       "img": "https://vignette.wikia.nocookie.net/disney/images/3/3a/Kfc.jpg/revision/latest?cb=20140810000057",
       "location": "1 Talaat Harb, Mosque, Qesm Than AZ Zagazig, Ash Sharqia Governorate",
@@ -17,25 +17,12 @@
           "rate": 5
         }
       
-    },
-    {
-       "id": 2,
-      "name": "KFC - Zagazig",
-      "img": "https://vignette.wikia.nocookie.net/disney/images/3/3a/Kfc.jpg/revision/latest?cb=20140810000057",
-      "location": "1 Talaat Harb, Mosque, Qesm Than AZ Zagazig, Ash Sharqia Governorate",
-      "phone": "055 2320004",
-      "rate": 4,
-      "foods": {
-        
-          "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plane rice, small French fries and buns",
-          "salary": "EGY 21.63",
-          "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg",
-          "rate": 5
-        }
-      
-    }
+   },
+   {
+      "id": 1,
+      "name": "KFC - Zagazig"
+     
+   }
     
     
     
