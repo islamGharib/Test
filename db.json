@@ -1,5 +1,5 @@
 {
-  "KFC_Restaurant": [
+  "Restaurant": [
     {
        "id": 1,
       "name": "KFC - Zagazig",
@@ -17,7 +17,27 @@
           "rate": 5
         }
       
+    },
+    {
+       "id": 2,
+      "name": "McDonald's - Zagazig",
+      "img": "img": "https://vignette.wikia.nocookie.net/thefutureofeuropes/images/9/98/Mcdonalds-logo.jpg/revision/latest?cb=20140731210755",
+      "location": "Tolba Awaida St, Shaibet an Nakarayah, Markez El-Zakazik, Ash Sharqia Governorate",
+      "phone": "01201173768",
+      "rate": 3,
+      "foods": {
+        
+          "id": 1,
+          "name": "Chicken Rice with Source Meal",
+          "content": "Chicken piece, small plane rice, small French fries and buns",
+          "salary": "EGY 21.63",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyNIb5zxh3P_Y3T4Xd_v2Y8s9v8kOHjgw-EfFjDcjJIk5aX3J",
+          "rate": 5
+        }
+      
     }
+    
+    
   ]
     
 }
