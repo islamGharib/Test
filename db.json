@@ -26,14 +26,14 @@
      "phone": "055 2320004",
      "rate": 5,
      "foods": {
-        "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
+          "id": 1,
+          "name": "Chicken Meal",
           "content": "Chicken piece, small plane rice, small French fries and buns",
           "salary": "EGY 21.63",
           "img": "https://i.warosu.org/data/ck/img/0075/75/1460769414798.jpg",
-          "rate": 5
+          "rate": 4
      }
-   }
+  }
  ]
     
 }
